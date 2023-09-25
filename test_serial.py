@@ -2,6 +2,7 @@
 # Raspberry Pi CM4 Nano Serial Test Sample
 # send 10 packets like [test0], [test1], [test2], ...
 # Receive and print packet data
+# pip install pyserial
 
 
 import threading
